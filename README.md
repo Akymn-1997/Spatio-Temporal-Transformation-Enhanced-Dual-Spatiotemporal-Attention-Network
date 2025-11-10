@@ -1,4 +1,4 @@
-# STAN-Based Wind Power Forecasting
+# STT-DSTAN-Based Wind Power Forecasting
 
 This repository contains the implementation of a spatiotemporal attention network (STAN) for short-term wind power forecasting.  
 The workflow involves clustering wind turbines based on their operational similarity, followed by forecasting models trained on each dataset.
