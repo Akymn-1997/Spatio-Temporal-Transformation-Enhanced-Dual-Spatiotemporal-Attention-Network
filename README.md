@@ -17,8 +17,3 @@ The workflow involves clustering wind turbines based on their operational simila
 
 ---
 
-## ⚙️ Dependencies
-
-Install required packages before running the scripts:
-```bash
-pip install -r requirements.txt
